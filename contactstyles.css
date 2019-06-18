@@ -1,0 +1,13 @@
+body {
+	background-color: CadetBlue;
+}
+p {
+	font-family: "Verdana", Geneva, sans-serif
+}
+p{
+	margin-bottom: 80px;
+	margin-top: 150px;
+}
+p.oblique{
+	font-style: oblique;
+}

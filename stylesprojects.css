@@ -1,0 +1,15 @@
+body {
+	background-color: SeaGreen;
+}
+p.dashed {border-style: dashed;}
+a:link, a:visited{
+	background-color: #ff6933
+	color: SeaShell;
+	padding: 14px 30px;
+	text-align: center
+	text-decoration: none;
+	display: inline-block;
+
+	a:hover, a:active;
+	background-color: #99ff33
+}
