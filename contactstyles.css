@@ -11,3 +11,25 @@ p{
 p.oblique{
 	font-style: oblique;
 }
+body{ 
+	background-color: khaki;
+}
+.topnav{ 
+overflow: hidden;
+background-color: #333;
+}
+.topnav a {
+	float: left;
+	display: block;
+	color: CadetBlue;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+h2 {
+	font-size: 20px;
+	} 

@@ -13,3 +13,4 @@ a:link, a:visited{
 	a:hover, a:active;
 	background-color: #99ff33
 }
+p.groove {border-style: groove;}
